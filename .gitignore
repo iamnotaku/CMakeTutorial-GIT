@@ -57,4 +57,3 @@ CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
 
-extLib/glfw
